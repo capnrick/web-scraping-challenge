@@ -1,0 +1,29 @@
+/*styling for html elements*/
+
+
+
+table {
+    border-collapse:collapse;
+}
+
+table td {
+   border:1px solid #000;
+}
+
+/* #mars-image {
+
+    size= 80%
+} */
+
+#mars-hemispheres{
+ 
+    padding-bottom: 100px;
+
+}
+#card{
+
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
